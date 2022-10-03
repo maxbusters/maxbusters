@@ -8,6 +8,10 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
                 <img src="https://img.shields.io/badge/Vue-white?style=for-the-badge&logo=vue.js&logoColor=green"
                     alt="Vue Badge" />
             </a>
+                <a href="https://vuejs.org/">
+                <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"
+                    alt="Git Badge" />
+            </a>
             <a href="https://reactjs.org/">
                 <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"
                     alt="React Badge" />
@@ -51,6 +55,13 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
             <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"
                 alt="HTML Badge" />
         </div>
+        <div id="badges-contacts">
+                <h4>Contact Me:</h4>
+                <a href="https://www.linkedin.com/in/maksym-skvortsov-70451123b/">
+                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+                    alt="LinkedIn Badge" />
+            </a>
+        </div> 
         <hr>
         <h4>My last works:<h4>
                 <hr>
