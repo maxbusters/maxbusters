@@ -14,7 +14,7 @@ I work with:
     <a href="https://www.javascript.com/">
         <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JS Badge" />
     </a>
-    <a href="https://reactjs.org/">
+    <a href="https://getbootstrap.com/">
         <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"
             alt="Bootstrap Badge" />
     </a>
@@ -26,9 +26,9 @@ I work with:
         <img src="https://img.shields.io/badge/PHP-darkslateblue?style=for-the-badge&logo=php&logoColor=white"
             alt="PHP Badge" />
     </a>
-    <a href="https://reactjs.org/">
-        <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"
-            alt="React Badge" />
+    <a href="https://www.npmjs.com/">
+        <img src="https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white"
+            alt="NPM Badge" />
     </a>
     <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"
