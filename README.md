@@ -30,14 +30,27 @@ I work with:
         <img src="https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white"
             alt="NPM Badge" />
     </a>
-    <a href="https://reactjs.org/">
-        <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"
-            alt="React Badge" />
+    <a href="https://jquery.com/">
+        <img src="https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white"
+            alt="jQuery Badge" />
     </a>
-    <a href="https://reactjs.org/">
-        <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"
-            alt="React Badge" />
+    <a href="https://www.mysql.com/">
+        <img src="https://img.shields.io/badge/MySQL-steelblue?style=for-the-badge&logo=mysql&logoColor=white"
+            alt="MySQL Badge" />
     </a>
+    <a href="https://sass-lang.com/">
+        <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white"
+            alt="SASS Badge" />
+    </a>
+    <a href="https://sass-lang.com/">
+        <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"
+            alt="CSS Badge" />
+    </a>
+    <a href="https://sass-lang.com/">
+        <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"
+            alt="HTML Badge" />
+    </a>
+    
 </div>
 
 - 🔭 I’m currently working on ...
