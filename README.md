@@ -1,14 +1,8 @@
-<style>
-.slot__text {
-   font-weight: 400 !important;
-        }
-
-</style>
 Greetings, ladies and gentlemens 👋☺️
 I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
 <hr>
-<h4>I work with:<h4>
         <div id="badges">
+   <h3>I work with:<h3>
             <a href="https://vuejs.org/">
                 <img src="https://img.shields.io/badge/Vue-white?style=for-the-badge&logo=vue.js&logoColor=green"
                     alt="Vue Badge" />
@@ -62,14 +56,15 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
         </div>
         <hr>
         <div id="badges-contacts">
-                <h4>Contact Me:</h4>
+                <h3>Contact Me:</h3>
                 <a href="https://www.linkedin.com/in/maksym-skvortsov-70451123b/">
                 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
                     alt="LinkedIn Badge" />
             </a>
+           <hr>
+           <h3>My last works:<h3> 
         </div> 
-        <hr>
-        <h4>My last works:<h4>
+        <div>
                 <div class="slot">
                     <h4 class="slot__title">The Movie Data Base</h4>
                     <p class="slot__text">
@@ -80,13 +75,13 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
                         The site was developed using the following technologies: Vue CLI, vuex, axios, Bootstrap
                         vue, SCSS, Vanilla.js.
                     </p>
-                </div>
-                <div class="slot__links">
+                   <div class="slot__links">
                     <a href="https://maxbusters.github.io/the_movie_db/" rel="noindex nofollow noreferrer"
                         target="_blank">Visit site</a>
                     ||
                     <a href="https://github.com/maxbusters/the_movie_db/tree/dev" rel="noindex nofollow noreferrer"
                         target="_blank">Show source code</a>
+                </div>
                 </div>
                 <br>
                 <div class="slot">
@@ -136,3 +131,4 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
                             rel="noindex nofollow noreferrer">Show source code</a>
                     </div>
                 </div>
+      </div>
