@@ -1,8 +1,13 @@
+<style>
+.slot__text {
+   font-weight: 400 !important;
+        }
+
+</style>
 Greetings, ladies and gentlemens 👋☺️
 I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
 <hr>
 <h4>I work with:<h4>
-        <hr>
         <div id="badges">
             <a href="https://vuejs.org/">
                 <img src="https://img.shields.io/badge/Vue-white?style=for-the-badge&logo=vue.js&logoColor=green"
@@ -55,6 +60,7 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
             <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"
                 alt="HTML Badge" />
         </div>
+        <hr>
         <div id="badges-contacts">
                 <h4>Contact Me:</h4>
                 <a href="https://www.linkedin.com/in/maksym-skvortsov-70451123b/">
@@ -64,7 +70,6 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
         </div> 
         <hr>
         <h4>My last works:<h4>
-                <hr>
                 <div class="slot">
                     <h4 class="slot__title">The Movie Data Base</h4>
                     <p class="slot__text">
@@ -83,7 +88,7 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
                     <a href="https://github.com/maxbusters/the_movie_db/tree/dev" rel="noindex nofollow noreferrer"
                         target="_blank">Show source code</a>
                 </div>
-                <hr>
+                <br>
                 <div class="slot">
                     <h4 class="slot__title">Bhromaon</h4>
                     <p class="slot__text">This site without JS. This is a responsive, adaptive and cross-browser
@@ -98,7 +103,7 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
                             rel="noindex nofollow noreferrer">Show source code</a>
                     </div>
                 </div>
-                <hr>
+                <br>
                 <div class="slot">
                     <h4 class="slot__title">Monticello</h4>
                     <p class="slot__text">
@@ -115,7 +120,7 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
                             code</a>
                     </div>
                 </div>
-                <hr>
+                <br>
                 <div class="slot">
                     <h4 class="slot__title">Manifest</h4>
                     <p class="slot__text">
