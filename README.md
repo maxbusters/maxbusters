@@ -60,7 +60,7 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
                 <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"
                     alt="TS Badge" />
             </a>
-           <a href="https://www.typescriptlang.org/">
+           <a href="https://pinia.vuejs.org/">
                 <img src="https://img.shields.io/badge/Pinia-yellow?style=for-the-badge&logo=pinia&logoColor=white"
                     alt="Pinia Badge" />
             </a>
