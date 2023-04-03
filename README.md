@@ -55,7 +55,11 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
                 alt="HTML Badge" />
             <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"
                     alt="Bitbucket Badge" />
-           
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+            <a href="https://www.typescriptlang.org/">
+                <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"
+                    alt="TS Badge" />
+            </a>
         </div>
         <hr>
         <div id="badges-contacts">
