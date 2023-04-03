@@ -54,7 +54,7 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
             <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"
                 alt="HTML Badge" />
            <a href="https://www.typescriptlang.org/">
-                <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typecript&logoColor=white"
+                <img src="https://img.shields.io/badge/TS-blue?style=for-the-badge&logo=typecript&logoColor=white"
                     alt="SASS Badge" />
             </a>
         </div>
