@@ -85,8 +85,10 @@ I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
                         recommendations is also displayed for each film. Based on The Movie DB API.
                         The site was developed using the following technologies: Vue CLI, vuex, axios, Bootstrap
                         vue, SCSS, Vanilla.js.
-                        Update: Add new version with Vue 3 Composition API + Pinia
                     </p>
+                   <p class="slot__text">
+                           <b>Update:</b> Add new version with Vue 3 Composition API + Pinia
+                   </p>
                    <div class="slot__links">
                     <a href="https://maxbusters.github.io/the_movie_db/" rel="noindex nofollow noreferrer"
                         target="_blank">Visit site</a>
