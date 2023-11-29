@@ -1,5 +1,5 @@
 Greetings, ladies and gentlemens 👋☺️
-I am Maksym, Front End developer and Software engineer from Mykolayiv, Ukraine.
+My name is Maksym, i am Software engineer from Mykolayiv, Ukraine.
 <hr>
         <div id="badges">
    <h3>I work with:<h3>
